@@ -1,7 +1,7 @@
 {
   "name": "uranium",
   "version": "1.0.0",
-  "description": "Framework for Node.js base on Express.js",
+  "description": "Design pattern for starting a project using: typescript, express, sequelize ORM",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
