@@ -1,0 +1,25 @@
+{
+  "name": "uranium",
+  "version": "1.0.0",
+  "description": "Framework for Node.js base on Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdanzamzam/Uranium.git"
+  },
+  "keywords": [
+    "['uranium'",
+    "'node'",
+    "'express'",
+    "'framework']"
+  ],
+  "author": "abdanzamzam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdanzamzam/Uranium/issues"
+  },
+  "homepage": "https://github.com/abdanzamzam/Uranium#readme"
+}
